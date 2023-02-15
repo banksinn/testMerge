@@ -1,7 +1,3 @@
-# markdownLinkTest
-
-[Getting started](#Getting started)
-
 ## Getting started
 
 Cloning this repository
